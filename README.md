@@ -1,6 +1,5 @@
 # DMI_PRACTICA12_200644
 
-
 [![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
 
 <div align="center">
