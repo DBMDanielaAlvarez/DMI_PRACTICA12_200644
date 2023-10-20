@@ -38,17 +38,17 @@ Las siguientes imagenes son la muestra de la salida de datos o el cambio de esta
   PELICULAS
 </p>
 <p align="center">
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/PeliculasPopulares.png" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/PeliculasProximamente.png" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/PeliculasFavoritas.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/PeliculasPopulares.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/PeliculasProximamente.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/PeliculasFavoritas.png" width="30%"/>
 </p>
 <p align="center">
   TV SHOW
 </p>
 <p align="center">
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/TvShowPopulares.png" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/TvShowAlAire.png" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/tree/main/screenshots/TvSHowFavoritas.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/TvShowPopulares.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/TvShowAlAire.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA12_200644/blob/main/screenshots/TvShowFavoritas.png" width="30%"/>
 </p>
 <br>
 <br>
